@@ -17,3 +17,5 @@ from torch import nn
 
 points = torch.tensor([[4.0,1.0]]).to(device='cuda')
 print(points) 
+
+
